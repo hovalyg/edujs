@@ -1,0 +1,10 @@
+@import "libs/bootstrap-reboot.min";
+@import "base/variables";
+@import "base/mixins";
+body {
+  background-color: rgb(86, 86, 86);
+}
+p {
+  color: azure;
+  font-size: 30px;
+}
